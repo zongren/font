@@ -1,6 +1,7 @@
-# SentyTang
-汉仪新蒂唐朝体，**仅**用于个人博客：https://zongren.me
+## [zongren.me](zongren.me)
+用于存放个人博客所用的中文字体
 
-字体来自[汉仪字库新蒂联创工作室](http://www.sentyfont.com/)
+##汉仪新蒂唐朝体
+  字体来自[汉仪字库新蒂联创工作室](http://www.sentyfont.com/)
 
 如有其他用途请联系官方
